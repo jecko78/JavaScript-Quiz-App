@@ -78,7 +78,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: 'ຈຳນວນ 2 + 2 ເທົາກັບ?',
     answers: [
       { text: '4', correct: true },
       { text: '22', correct: false }
@@ -103,10 +103,12 @@ const questions = [
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'ຈຳນວນ 4 * 2 ເທົ່າກັບ?',
     answers: [
       { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: '8', correct: true },
+      { text: '10', correct: false },
+      { text: '14', correct: false }
     ]
   }
 ]
