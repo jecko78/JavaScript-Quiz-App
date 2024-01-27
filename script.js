@@ -78,7 +78,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: 'ຈຳນວນຄ່າຂອງ 2 + 2 ແມ່ນເທົ່າກັບ?',
     answers: [
       { text: '4', correct: true },
       { text: '22', correct: false }
